@@ -2,6 +2,9 @@
 
 Necesario inicializar MySql con Xampp
 
+##Diagrama
+[Diagrama](https://drive.google.com/file/d/1Phv39urILgDo_CGEHA3CRMPIrOIzBMmg/view)
+
 ## Carpeta ETL
 Ejecutar el script pipeline.py para realizar la extracción, transformación y carga de los metrobuses. El proceso de carga creará la base de datos si fuera necesario.
 
