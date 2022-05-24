@@ -1,0 +1,39 @@
+schema {
+    query: Query
+}
+
+type MetroBus{
+    id: ID
+    date_updated: String
+    vehicle_id: Int
+    vehicle_label: Int
+    vehicle_current_status: Int
+    position_latitude: Float
+    position_longitude: Float
+    geographic_point: String
+    position_speed: Int
+    position_odometer: Int
+    trip_schedule_relationship: Int
+    trip_id: Int
+    trip_start_date: Int
+    trip_route_id: Int
+    alc: String
+}
+
+type MetroBusResult {
+    success: Boolean!
+    errors: [String]
+    metrobus: MetroBus
+}
+
+type MetroBusResults {
+    success: Boolean
+    errors: [String]
+    metrobuses: [MetroBus]
+}
+
+type Query {
+    listUnidades: MetroBusResults
+    getMetroBus(id: ID): MetroBusResult
+    getMetroBusByAlc(alc: String): MetroBusResults
+}

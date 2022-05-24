@@ -1,0 +1,23 @@
+site:
+  url: https://datos.cdmx.gob.mx/api/3/action/datastore_search?resource_id=ad360a0e-b42f-482c-af12-1fd72140032e
+  limit: '250'
+  struct:
+    result:
+      type: 'JSON'
+      records:
+        type: 'MAPS'
+        id: 'int'
+        date_updated: 'timestamp'
+        vehicle_id: 'numeric'
+        vehicle_label: 'numeric'
+        vehicle_current_status: 'numeric'
+        position_latitude: 'double'
+        position_longitude: 'double'
+        geographic_point: 'text'
+        position_speed: 'numeric'
+        position_odometer: 'numeric'
+        trip_schedule_relationship: 'numeric'
+        trip_id: 'numeric'
+        trip_start_date: 'numeric'
+        trip_route_id: 'numeric'
+        alc: 'text'

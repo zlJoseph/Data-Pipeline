@@ -1,0 +1,67 @@
+{
+    "keys":["Álvaro Obregón","Azcapotzalco","Benito Juárez","Coyoacán","Cuajimalpa de Morelos","Cuauhtémoc","Gustavo A. Madero","Iztacalco","Iztapalapa","Magdalena Contreras","Miguel Hidalgo","Milpa Alta","Tláhuac","Tlalpan","Venustiano Carranza","Xochimilco"],
+    "Álvaro Obregón":{
+        "latitud": 19.3895229,
+        "longitud": -99.1977954
+    },
+    "Azcapotzalco":{
+        "latitud": 19.4843545,
+        "longitud": -99.1840576
+    },
+    "Benito Juárez":{
+        "latitud": 19.3719126,
+        "longitud": -99.1593666
+    },
+    "Coyoacán":{
+        "latitud": 19.3502633,
+        "longitud": -99.1644472
+    },
+    "Cuajimalpa de Morelos":{
+        "latitud": 19.3573225,
+        "longitud": -99.3019746
+    },
+    "Cuauhtémoc":{
+        "latitud": 19.4416226,
+        "longitud": -99.1540753
+    },
+    "Gustavo A. Madero":{
+        "latitud": 19.4824419,
+        "longitud": -99.1152861
+    },
+    "Iztacalco":{
+        "latitud": 19.3956092,
+        "longitud": -99.0988674
+    },
+    "Iztapalapa":{
+        "latitud": 19.3590271,
+        "longitud": -99.0948032
+    },
+    "Magdalena Contreras":{
+        "latitud": 19.4344716,
+        "longitud": -99.1404091
+    },
+    "Miguel Hidalgo":{
+        "latitud": 19.4073045,
+        "longitud": -99.1931306
+    },
+    "Milpa Alta":{
+        "latitud": 19.1912892,
+        "longitud": -99.0254507
+    },
+    "Tláhuac":{
+        "latitud": 19.2703084,
+        "longitud": -99.0063421
+    },
+    "Tlalpan":{
+        "latitud": 19.2882674,
+        "longitud": -99.1693153
+    },
+    "Venustiano Carranza":{
+        "latitud": 19.4192636,
+        "longitud": -99.1154241
+    },
+    "Xochimilco":{
+        "latitud": 19.2635816,
+        "longitud": -99.1070895
+    }
+}

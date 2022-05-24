@@ -1,0 +1,8 @@
+pyyaml
+requests
+pandas
+flask
+ariadne 
+flask-sqlalchemy 
+flask-cors
+pymysql
